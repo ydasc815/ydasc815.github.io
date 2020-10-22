@@ -1,6 +1,4 @@
 body{
-    /* width: 640px;
-    height: 400px; */
     background-color: #00284a;      
 }
 @font-face {
@@ -11,7 +9,6 @@ body{
 .container {
     font-family: "Google Sans Medium";
     font-size: 32px;
-    /* font-weight: 100; */
     font-stretch: normal;
     font-style: normal;
     line-height: 1.25;

@@ -56,13 +56,6 @@ body{
     color: #ffffff;
   }
 
-  .reachout-2 {
-    font-weight: 500;
-    margin-left: 8px;
-    font-family: "Google Sans Regular";
-    color: #007be4;
-  }
-
 .social{
     display: flex;
 }

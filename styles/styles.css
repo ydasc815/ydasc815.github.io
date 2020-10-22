@@ -1,5 +1,6 @@
 body{
-    background-color: #00284a;      
+    /* background-color: #00284a;   Old bg Color    */
+    background-color: #183D5D;
 }
 @font-face {
     font-family: "Google Sans Regular"; src: url(./fonts/GoogleSans-Regular.ttf);

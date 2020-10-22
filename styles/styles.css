@@ -1,0 +1,78 @@
+body{
+    /* width: 640px;
+    height: 400px; */
+    background-color: #00284a;      
+}
+@font-face {
+    font-family: "Google Sans Regular"; src: url(./fonts/GoogleSans-Regular.ttf);
+    font-family: "Google Sans Medium"; src: url(./fonts/GoogleSans-Medium.ttf);
+}
+
+.container {
+    font-family: "Google Sans Medium";
+    font-size: 28px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    margin-left: 116px;
+    margin-top: 96px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.desc {
+    font-family: "Google Sans Regular";
+    font-size: 32px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    margin-left: 116px;
+    margin-top: -16px;
+    margin-right: 100px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+
+.parent{
+    display: flex;   
+    font-size: 32px;
+    vertical-align: baseline;
+    margin-top: 148px;
+}
+
+.reachout-1 {
+    font-family: "Google Sans Regular";
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    margin-left: 116px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+
+  .reachout-2 {
+    font-weight: 500;
+    margin-left: 8px;
+    font-family: "Google Sans Regular";
+    color: #007be4;
+  }
+
+.social{
+    display: flex;
+}
+
+.twitter{
+    margin-left: 116px;
+}
+.linkedin{
+    margin-left: 36px;
+}
+.github{
+    margin-left: 36px;
+}

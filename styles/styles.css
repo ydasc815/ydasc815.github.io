@@ -12,7 +12,7 @@ body{
     font-stretch: normal;
     font-style: normal;
     line-height: 1.25;
-    margin-left: 116px;
+    margin-left: 7%;
     margin-top: 96px;
     letter-spacing: normal;
     text-align: left;
@@ -26,9 +26,9 @@ body{
     font-stretch: normal;
     font-style: normal;
     line-height: 1.25;
-    margin-left: 116px;
+    margin-left: 7%;
     margin-top: -16px;
-    margin-right: 100px;
+    margin-right: 7%;
     letter-spacing: normal;
     text-align: left;
     color: #ffffff;
@@ -47,7 +47,8 @@ body{
     font-stretch: normal;
     font-style: normal;
     line-height: 1.25;
-    margin-left: 116px;
+    margin-left: 7%;
+    margin-right: 7%;
     letter-spacing: normal;
     text-align: left;
     color: #ffffff;
@@ -58,11 +59,12 @@ body{
 }
 
 .twitter{
-    margin-left: 116px;
+    margin-left: 7%;
 }
 .linkedin{
-    margin-left: 36px;
+    margin-left: 3%;
 }
 .github{
-    margin-left: 36px;
+    margin-left: 3%;
+    margin-bottom: 40px;
 }

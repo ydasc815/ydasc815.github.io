@@ -10,8 +10,8 @@ body{
 
 .container {
     font-family: "Google Sans Medium";
-    font-size: 28px;
-    font-weight: 500;
+    font-size: 32px;
+    /* font-weight: 100; */
     font-stretch: normal;
     font-style: normal;
     line-height: 1.25;
